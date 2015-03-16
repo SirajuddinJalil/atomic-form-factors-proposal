@@ -10,3 +10,6 @@ to postcript and then converted to PDF as follows:
 
     $ latex slides.tex ; dvips -t landscape slides.dvi ; ps2pdf slides.ps slides.pdf
 
+The final slides can be downloaded from here:
+
+* [Atomic Form Factors and X-Ray - Atom Scattering (PDF)](https://github.com/mikepsn/atomic-form-factors-proposal/blob/master/slides.pdf?raw=true)
